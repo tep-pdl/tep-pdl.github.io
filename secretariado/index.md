@@ -1,6 +1,5 @@
-# TESTEMUNHO EM PORTOS
-# PONTA DELGADA
-# Instruções para o Secretariado
+# **SECRETARIADO (TEP)**
+# Ponta Delgada
 
 ---
 ## Passo 1
