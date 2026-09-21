@@ -1,1 +1,1 @@
-[Secretariado](https://joaquim-capitao.github.io/tep/secretariado)
+[Secretariado](https://tep-pdl.github.io/secretariado)
