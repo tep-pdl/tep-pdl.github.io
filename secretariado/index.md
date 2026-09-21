@@ -56,16 +56,16 @@ Enviar email através do [Webmail](https://webmail.tperm.pt/) 
 
 ### Quando se tratar de navio de cruzeiro. o contacto é feito duas semanas antes do dia de chegada.   
 
-[Exemplo de email para Cruzeiro com destino a Lisboa ou Porto](http://joaquim-capitao.github.io/tep/secretariado/cruzeiro-destino-lisboa-ou-porto)  
+[Exemplo de email para Cruzeiro com destino a Lisboa ou Porto](http://tep-pdl.github.io/secretariado/cruzeiro-destino-lisboa-ou-porto)  
 
-[Exemplo de email para Cruzeiro com outros destinos](http://joaquim-capitao.github.io/tep/secretariado/cruzeiro-outros-destinos)  
+[Exemplo de email para Cruzeiro com outros destinos](http://tep-pdl.github.io/secretariado/cruzeiro-outros-destinos)  
 
 
 ### Se o navio for de carga ou outro tipo similar, o contacto é feito uma semana antes da chegada.   
 
-[Exemplo de email para Barco de Carga com destino a Lisboa ou Porto](http://joaquim-capitao.github.io/tep/secretariado/carga-para-lisboa-ou-porto)  
+[Exemplo de email para Barco de Carga com destino a Lisboa ou Porto](http://tep-pdl.github.io/secretariado/carga-para-lisboa-ou-porto)  
 
-[Exemplo de email para Barco de Carga com outros destinos](http://joaquim-capitao.github.io/tep/secretariado/carga-outros-destinos)  
+[Exemplo de email para Barco de Carga com outros destinos](http://tep-pdl.github.io/secretariado/carga-outros-destinos)  
 
 
 > **Importante: Nunca contactar navios petroleiros e navios não especificados. Nesse caso, devemos contactar o capitão da nossa equipa porque pode ser necessário personalizar a mensagem a este tipo específico de navio. (p. ex. pode ser militar ou navio escola)**  
@@ -82,7 +82,7 @@ Para os navios de cruzeiro sugerimos sempre três ou quatro pessoas para visitar
 
 Quando não tivemos resposta na primeira tentativa, enviamos o email de Follow Up.  
 
-[Exemplo de email de Follow Up](http://joaquim-capitao.github.io/tep/secretariado/follow-up)
+[Exemplo de email de Follow Up](http://tep-pdl.github.io/secretariado/follow-up)
 
 Se continuarmos a não ter resposta, marcamos com 3 meses.   
 
