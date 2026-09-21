@@ -40,7 +40,7 @@ No site dos [Portos dos Açores](https://portosdosacores.pt/movimento-portuario/
 
 Verificamos se o email existe usando alguma ferramenta gratuita de verificação:  
 
-[emailhippo.com](https://tools.emailhippo.com/)
+[emailhippo.com](https://tools.emailhippo.com/)   
 [captainverify.com](https://captainverify.com/pt/mail-tester.html)  
 [site24x7.com](https://www.site24x7.com/pt/tools/email-validator.html)  
 [emaillistverify.com](https://emaillistverify.com/validador-de-email)  
