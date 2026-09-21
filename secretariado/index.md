@@ -1,5 +1,6 @@
-
-# SECRETARIADO (Instruções)
+# TESTEMUNHO EM PORTOS
+# PONTA DELGADA
+# Instruções para o Secretariado
 
 ---
 ## Passo 1
