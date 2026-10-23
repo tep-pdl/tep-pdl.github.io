@@ -7,14 +7,14 @@ Exmo. Diretor da Alfândega do Porto de Leixões,
   
 O meu nome é Pedro Costa e represento a Support & Care for Sailors, um grupo local de voluntários que desenvolve um trabalho de apoio emocional e psicológico a marinheiros de alto mar.  
 
-Recebemos autorização para subir a bordo do navio _________________ no próximo dia _____________ das ______ às _______. Entraremos uns minutos antes e poderemos sair uns minutos depois.  
+Recebemos autorização para subir a bordo do navio 0000000000000 no próximo dia 000000000000 das 000 às 0000. Entraremos uns minutos antes e poderemos sair uns minutos depois.  
   
 Venho pelo presente e-mail solicitar autorização para que os nossos voluntários levem consigo os itens abaixo descriminados para a Zona Internacional.  
   
 Os voluntários:  
-- nome __________________  
-  Cartão de Cidadão _______ válido até ________________;  
-  AAZI _____ válida até ________
+- nome 0000000000  
+  Cartão de Cidadão 000000 válido até 00/00/0000;  
+  AAZI 000 válida até 00/00/0000
     
 Os itens:  
 - ___ revistas gratuitas que fazem parte de uma obra mundial de educação bíblica;  
