@@ -4,11 +4,11 @@ Quando há uma resposta positiva da parte de uma embarcação, devem ser dados o
 
 ---
 
-## Navio
+## 1º PASSO - NAVIO
 Responder ao email da embarcação usando o modelo ["Resposta ao Navio"](resposta-ao-navio)
 
 ---
-## Agente de navegação
+## 2º PASSO - AGENTE DE NAVEGAÇÃO
 Uma vez que recebida a resposta positiva do Navio referente ao dia e hora, a mesma deve ser reencaminhada para o respetivo agente de navegação, usando o modelo ["Pedido ao Agente"](pedido-ao-agente)
 
 Os agentes que atuam na nossa ilha são os seguintes:
@@ -20,7 +20,7 @@ Os agentes que atuam na nossa ilha são os seguintes:
 [Cmjrieff](https://www.cmjrieff.pt/en/contact-us)
 
 ---
-## Alfândega
+## 3º PASSO - ALFÂNDEGA
 
 Contactar a Alfândega usando o modelo ["Pedido à Alfândega"](pedido-a-alfandega)
 
