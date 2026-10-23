@@ -31,9 +31,9 @@ Comprometemo-nos a cumprir todas as normas de segurança e restrições aduaneir
   
 Na expectativa da vossa resposta, despeço-me com os melhores cumprimentos,
 
-[NOME]
-[TELEFONE]
-(Support & Care for Sailors - Ponta Delgada)
+[NOME]  
+[TELEFONE]  
+(Support & Care for Sailors - Ponta Delgada)  
 
 
 
