@@ -18,3 +18,7 @@ We look forward to hearing from you and hope to meet you soon.
 Kind regards,   
 [NOME DO CAPITÃO DA EQUIPA]   
 (Support & Care for Sailors - Ponta Delgada)  
+
+---
+
+[<-- Voltar atrás](https://tep-pdl.github.io/secretariado)
