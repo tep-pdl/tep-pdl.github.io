@@ -18,5 +18,5 @@ If you’re open to this, just let us know on your reply to this email and we wi
 We look forward to hearing from you and hope to meet you soon.  
 
 Kind regards,  
-
-(Nome do capitão da nossa equipa)  
+[NOME DO CAPITÃO DA EQUIPA]
+(Support & Care for Sailors - Ponta Delgada)
