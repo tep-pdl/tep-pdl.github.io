@@ -19,4 +19,8 @@ Kind regards,
 [NOME DO CAPITÃO DA EQUIPA]    
 (Support & Care for Sailors - Ponta Delgada)  
 
+---
+
+[<-- Voltar atrás](https://tep-pdl.github.io/secretariado)
+
 
