@@ -4,11 +4,12 @@ Uma vez que recebida a resposta positiva do Navio, a mesma deve ser reencaminhad
 
 Anexar: AAZI de todos, cartões de cidadão, formulário do pedido CUP
 
+---
 ## Modelo de email
 
-Prezado ___________,  
+Prezado 00000000,  
 
-Recebemos uma autorização de visita ao navio ________________, no porto de Ponta Delgada, no dia ________________, às _________.
+Recebemos uma autorização de visita ao navio 000000000000, no porto de Ponta Delgada, no dia 0000000000000000, às 000000.
 
 Estamos a enviar, em anexo, o formulário para pedido CUP na JUL juntamente com as cópias dos documentos dos voluntários que farão a visita. Pedimos, por favor, a vossa ajuda em submeter este pedido. 
 
@@ -20,7 +21,7 @@ Muito obrigado pela ajuda. Fico pessoalmente disponível para qualquer esclareci
 
 Cumprimentos,
 (nome)
-(telemóvel)
+(+351 telemóvel)
 
 ---
 
