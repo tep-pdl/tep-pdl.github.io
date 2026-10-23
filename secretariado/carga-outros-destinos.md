@@ -13,6 +13,8 @@ We understand that your ship is scheduled to be in the **Port of Ponta Delgada**
 
 If you would like us to organize a visit by **two** of our volunteers, please use the contact details below to invite us aboard your ship. We will take care of all necessary arrangements to ensure the visit is as smooth and convenient as possible. We look forward to hearing from you and hope to meet you soon.  
 
-Kind regards,  
+Kind regards,   
+[Nome do capitão da nossa equipa]    
+(Support & Care for Sailors - Ponta Delgada)  
 
-(Nome do capitão da nossa equipa)  
+---
