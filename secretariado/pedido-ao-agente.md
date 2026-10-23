@@ -19,6 +19,7 @@ Muito obrigado pela ajuda. Fico pessoalmente disponível para qualquer esclareci
 
 Cumprimentos,  
 [NOME DO CAPITAO]  
+[TELEFONE]
 (Support & Care for Sailors)  
 
 
