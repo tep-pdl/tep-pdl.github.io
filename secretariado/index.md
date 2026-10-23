@@ -12,13 +12,17 @@ Abrir estas 3 páginas:
 ---
 ## Passo 2
 
-Ver no [BackOffice](https://bo.port-mission.de/) que barcos nos atribuíram.   
+Ver no site [Portos dos Açores](https://portosdosacores.pt/movimento-portuario/) quais os navios que chegarão nas próximas semanas. 
 
-Verificar se o navio tem contactos de email.   
+Verificar no [BackOffice](https://bo.port-mission.de/) quais os contactos de email desses navios.  
 
-Se não tiver, não fazemos nada.  
+Se o barco não tiver email, não fazemos nada.  
 
-Se tiver, analisamos as interações que as equipas do TEP dos vários portos já tiveram com o barco. A nossa equipa classifica as interações da seguinte forma:    
+Se tiver, analisamos as interações que as equipas do TEP dos vários portos já tiveram com o barco.  
+
+Se houver uma interação com menos de 3 meses, contactamos o irmão que fez essa interação para saber o que foi feito.  
+
+A nossa equipa classifica as interações da seguinte forma:    
 
 . **Não especificado** - Quando não houve resposta ao nosso email ou nada de importante a relatar.    
 
@@ -31,9 +35,9 @@ Se tiver, analisamos as interações que as equipas do TEP dos vários portos j�
 
 No site dos [Portos dos Açores](https://portosdosacores.pt/movimento-portuario/), vemos qual a origem e o destino do navio.    
 
-- Se a origem for Lisboa ou Porto, **não** contactamos.   
+- Se a origem for um porto de Portugal, **não** contactamos.   
 
-- Se o destino for Lisboa ou Porto, usamos a mensagem de email apropriada no passo 5.   
+- Se o destino for um porto de Portugal, usamos a mensagem de email apropriada no passo 5.   
 
 ---
 ## Passo 4
@@ -46,16 +50,18 @@ Verificamos se o email existe usando alguma ferramenta gratuita de verificação
 [emaillistverify.com](https://emaillistverify.com/validador-de-email)  
 [emailverify.io](https://www.emailverify.io/pt/services/email-verify/)  
 
-Se a resposta da verificação for não existe, não enviamos.   
+Se a resposta da verificação for "não existe", não enviamos.   
 
 Quando a decisão for enviar, criamos a tarefa no [Backoffice](https://bo.port-mission.de/).  
+
+
 
 ---
 ## Passo 5
 
 Enviar email através do [Webmail](https://webmail.tperm.pt/)     
 
-### Quando se tratar de navio de cruzeiro. o contacto é feito duas semanas antes do dia de chegada.   
+### Quando se tratar de um Navio de Cruzeiro. o contacto é feito duas semanas antes do dia de chegada.   
 
 [Exemplo de email para Cruzeiro com destino a Lisboa ou Porto](http://tep-pdl.github.io/secretariado/cruzeiro-destino-lisboa-ou-porto)  
 
