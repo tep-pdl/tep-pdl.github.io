@@ -45,7 +45,7 @@ Thank you again for your assistance.
 
 Kind regards,  
 [NOME DO CAPITAO]  
-(Support and care for the sailors)  
+(Support & Care for Sailors - Ponta Delgada)  
 
 
 ---
