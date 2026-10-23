@@ -16,8 +16,7 @@ If you would like us to organize a visit by **three or four** of our volunteers,
 We look forward to hearing from you and hope to meet you soon.  
 
 Kind regards,  
-
-(Nome do capitão da nossa equipa)  
-
+[NOME DO CAPITÃO DA EQUIPA]    
+(Support & Care for Sailors - Ponta Delgada)  
 
 
