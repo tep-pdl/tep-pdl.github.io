@@ -3,7 +3,7 @@
 
 ---
 
-Dear Captain/Master of (Nome do navio),  
+Dear Captain/Master of [NOME DO NAVIO],  
 
 We hope that you and the entire crew are well.  
 
