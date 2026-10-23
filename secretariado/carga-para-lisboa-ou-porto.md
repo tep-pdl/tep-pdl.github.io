@@ -3,7 +3,7 @@
 
 ---
 
-Dear Captain/Master of (Nome do navio),   
+Dear Captain/Master of [NOME DO NAVIO],   
 
 We hope that you and the entire crew are well.  
 
@@ -15,6 +15,6 @@ If you would like us to organize a visit by **two** of our volunteers, simply re
 
 We look forward to hearing from you and hope to meet you soon.  
 
-Kind regards,  
-
-(Nome do capitão da nossa equipa)  
+Kind regards,   
+[NOME DO CAPITÃO DA EQUIPA]   
+(Support & Care for Sailors - Ponta Delgada)  
