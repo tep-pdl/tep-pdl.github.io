@@ -3,7 +3,7 @@
 
 ---
 
-Dear Captain/Master of (Nome do navio),  
+Dear Captain/Master of [NOME DO NAVIO],  
 
 We hope that you and the entire crew are well.  
 
@@ -14,7 +14,7 @@ We understand that your ship is scheduled to be in the **Port of Ponta Delgada**
 If you would like us to organize a visit by **two** of our volunteers, please use the contact details below to invite us aboard your ship. We will take care of all necessary arrangements to ensure the visit is as smooth and convenient as possible. We look forward to hearing from you and hope to meet you soon.  
 
 Kind regards,   
-[Nome do capitão da nossa equipa]    
+[NOME DO CAPITÃO DA EQUIPA]    
 (Support & Care for Sailors - Ponta Delgada)  
 
 ---
