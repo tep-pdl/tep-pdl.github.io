@@ -20,7 +20,7 @@ Os agentes que atuam na nossa ilha são os seguintes:
 
 ## Alfândega
 
-Contactar a Alfândega usando o modelo ["Pedido ao Agente"](pedido-ao-agente)
+Contactar a Alfândega usando o modelo ["Pedido à Alfândega"](pedido-a-alfandega)
 
 
 
