@@ -5,7 +5,12 @@ Quando há uma resposta positiva da parte de uma embarcação, devem ser dados o
 ---
 
 ## 1º PASSO - NAVIO
-Responder ao email da embarcação usando o modelo ["Resposta ao Navio"](resposta-ao-navio)
+Responder ao email da embarcação usando o modelo ["Resposta ao Navio"](resposta-ao-navio)  
+
+Se for solicitado um panfleto com informações sobre nós, pode-se enviar este panfleto:   
+[Panfleto](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/TEP/Support-and-Care-for-Sailors-Flyer.pdf)  
+
+O email a acompanhar pode ser este: [Exemplo](resposta-com-panfleto)
 
 ---
 ## 2º PASSO - AGENTE DE NAVEGAÇÃO
