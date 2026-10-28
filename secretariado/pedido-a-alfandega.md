@@ -1,5 +1,30 @@
 # Pedido à Alfândega
 
+Enviar para: 
+apdelgada@at.gov.pt 
+
+Assunto: Visita de Voluntários ao [NOME DO NAVIO]
+
+Exmo. Sr. 
+
+Conforme conversa telefónica, enviaremos 3 voluntários a visitar o navio [NOME DO NAVIO], no dia [DIA] de [MÊS], das [HORÁRIO].
+
+- [NOME ] -  [CARTÃO DE CIDADÃO]
+- [NOME ] -  [CARTÃO DE CIDADÃO]
+- [NOME ] -  [CARTÃO DE CIDADÃO]
+
+Comprometemo-nos a cumprir todas as normas de segurança e restrições aduaneiras em vigor.  
+  
+Na expectativa da vossa resposta, despeço-me com os melhores cumprimentos,
+
+[NOME]  
+[TELEFONE]  
+(Support & Care for Sailors - Ponta Delgada)  
+
+
+
+
+
 Anexos:
 **AAZI + CC + confirmação da submissão da Cup na Jul**
 
