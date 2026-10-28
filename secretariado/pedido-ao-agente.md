@@ -22,7 +22,28 @@ Cumprimentos,
 (Support & Care for Sailors)  
 [TELEFONE]
 
+---
+### Ponta Delgada
 
+(sem anexos)
+
+Exmo. Sr. 
+
+Conforme conversa telefónica, recebemos uma autorização de visita ao navio QUEEN ANNE, no porto de Ponta Delgada, para o dia 5 de novembro de 2026, das 11h00 às 13h00. 
+
+Os dados dos voluntários são os seguintes:
+
+- NOME (CC: NÚMERO)
+- NOME (CC: NÚMERO)
+- NOME (CC: NÚMERO)
+
+Pedimos, por favor, a vossa ajuda em submeter este pedido.
+
+Muito obrigado pela ajuda. Fico pessoalmente disponível para qualquer esclarecimento adicional sobre esta visita.
+
+Cumprimentos,
+Joaquim Capitão
+(Support & Care for Sailors)
 
 
 
