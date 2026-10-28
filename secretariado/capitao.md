@@ -19,7 +19,8 @@ Uma vez que recebida a resposta positiva do Navio referente ao dia e hora, a mes
 Os agentes que atuam na nossa ilha são os seguintes:
 
 **GRUPO BENSAÚDE**
-[Bensaúde](https://www.grupobensaude.pt/pt/areas-negocio/maritima-e-logistica/bensaude-agentes-de-navegacao/)
+Telefone: 296 301 800
+Email: shipping.pdl@bensaude.pt
 
 **CMJRIEFF**
 [Cmjrieff](https://www.cmjrieff.pt/en/contact-us)
