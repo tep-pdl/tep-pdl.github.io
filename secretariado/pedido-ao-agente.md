@@ -25,6 +25,8 @@ Cumprimentos,
 ---
 ### Ponta Delgada
 
+Assunto: Visita de voluntários ao [NOME DO NAVIO]
+
 (sem anexos)
 
 Exmo. Sr. 
