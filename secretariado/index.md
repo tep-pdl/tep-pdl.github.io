@@ -37,7 +37,9 @@ No site dos [Portos dos Açores](https://portosdosacores.pt/movimento-portuario/
 
 - Se a origem for um porto de Portugal, **não** contactamos.   
 
-- Se o destino for um porto de Portugal, usamos a mensagem de email apropriada no passo 5.   
+- Se o destino for um porto de Portugal, usamos a mensagem de email apropriada no passo 5.  
+
+Também é possível acompanhar o percurso dos navios de cruzeiro no site: [Cruise Mapper](https://www.cruisemapper.com/ports/ponta-delgada-port-628)  
 
 ---
 ## Passo 4
