@@ -28,11 +28,51 @@ Email: shipping.pdl@bensaude.pt
 ---
 ## 3º PASSO - ALFÂNDEGA
 
-Contactar a Alfândega usando o modelo ["Pedido à Alfândega"](pedido-a-alfandega)
+Contactar a Alfândega usando o modelo ["Pedido à Alfândega"](pedido-a-alfandega)  
 
 <br>
 
 ---
+
+## 4ª PASSO - REUNIÃO PRÉ-VISITA
+
+Reunir os aprovados a visitar o barco, para lhes dar os seguintes lembretes:  
+
+. Todos devem levar o AAZI e o Cartão de Cidadão  
+. A vestimenta deve ser formal, mas confortável, no caso dos cruzeiros  
+. Devem levar os EPI's se for um barco de carga  
+. Descarregar antecipadamente vídeos nas línguas estrangeiras
+
+---
+
+## 5ª PASSO - PREPARAR CAIXA DE SERVIÇO  
+
+. 40 revistas em diversas línguas  
+  (número exato, para facilitar a contagem no final)  
+. Cartas em diversas línguas  
+. Letreiro "Take a free publication"  
+
+---
+
+## 6 PASSO -  BACKOFFICE
+
+. Adicionar novo contacto  
+. Tipo de Contacto: Visita  
+. Data da visita  
+. Porto: Ponta Delgada  
+. Contactado por: nome do capitão  
+. Agente de Navegação  
+. Próximo contacto: 3 Meses
+
+
+<br>
+
+
+
+
+
+
+
 
 
 
